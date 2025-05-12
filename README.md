@@ -1,6 +1,6 @@
 #Read me for skillHub
 
-#Api endpoints for skillhub
+#Api endpoints for users login 
 
 Request : 
 POST : {{domain}}/v1/customers/users
